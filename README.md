@@ -1,6 +1,6 @@
 ## Pump Fun Websocket ##
 
-Monitors Solana mint and trade events in real-time via WebSocket, using a WSS URL from providers like Helius or QuickNode. 
+Monitors Pump Fun mint and trade events in real-time via WebSocket, using a WSS URL from providers like Helius or QuickNode. 
 
 This code can be adapted for use in a sniper bot or copy trading bot.
 
